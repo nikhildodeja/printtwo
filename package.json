@@ -1,10 +1,11 @@
 {
-  "name": "@xyz/printtwo",
-  "version": "1.0.0",
+  "name": "@xyzfirst/printtwo",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
