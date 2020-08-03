@@ -1,0 +1,23 @@
+{
+  "name": "@xyz/printtwo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhildodeja/printtwo.git"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhildodeja/printtwo/issues"
+  },
+  "homepage": "https://github.com/nikhildodeja/printtwo#readme"
+}
